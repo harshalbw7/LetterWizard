@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352328310595",
+    "project_id": "letterwizard-d7185",
+    "storage_bucket": "letterwizard-d7185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352328310595:android:f1fa12ede67cdcc0c319f6",
+        "android_client_info": {
+          "package_name": "com.example.letterwizardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQexOpskdWi-sr8_SAlrsAOYzxMBjpgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
